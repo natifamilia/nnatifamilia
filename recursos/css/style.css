@@ -53,3 +53,18 @@ footer {
     width: 100%;
     bottom: 0;
 }
+
+/* CSS adicional para ajustar el tamaño de las imágenes */
+.activity img {
+    width: 100%;
+    max-width: 300px; /* Ajusta el tamaño máximo según sea necesario */
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+.activity {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
